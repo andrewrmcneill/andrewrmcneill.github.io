@@ -2,7 +2,7 @@
 share: "true"
 ---
 
-![Andrew](amphoto.jpg)
+![Andrew](amcn_square_small.jpg)
 ## Biography
 Dr Andrew McNeill is an Lecturer at Queen's University Belfast. He obtained his PhD there in 2013 and subsequently worked as a post-doctoral researcher, lecturer and assistant professor at Northumbria University in Newcastle upon Tyne. He joined Queen's in February 2024 as lecturer in Qualitative Research Methods.
 
